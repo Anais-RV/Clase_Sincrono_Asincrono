@@ -1,0 +1,6 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "main": "asincronia.js",
+  "type": "module"
+}
