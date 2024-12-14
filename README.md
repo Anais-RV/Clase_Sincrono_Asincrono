@@ -47,7 +47,9 @@ Imagina que estás diseñando una app súper interactiva. El frontend (lo que ve
 
     dameDatos();
     
-** ¡Con solo unas líneas, puedes cargar datos! 
+**¡Con solo unas líneas, puedes cargar datos!** 
+
+
 
 2. ⏳ **Cargar recursos en segundo plano**:
 - ¿Imágenes? ¿Videos? ¿Datos del espacio exterior? Todo puede cargarse mientras el usuario sigue feliz navegando. 🚀
